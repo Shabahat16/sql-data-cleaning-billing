@@ -7,10 +7,10 @@ This is a small data cleaning project using SQL and PostgreSQL (pgAdmin 4). The 
 ## What I Cleaned:
 
 - Removed duplicate rows
-- Updating null values
+- Updates null values
 - Corrected unknown values
 - Changed data types
-- standardize the data
+- Standardized the data
 
 ## Tools Used
 - PostgreSQL (pgAdmin 4)
