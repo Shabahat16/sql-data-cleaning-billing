@@ -7,7 +7,7 @@ This is a small data cleaning project using SQL and PostgreSQL (pgAdmin 4). The 
 ## What I Cleaned:
 
 - Removed duplicate rows
-- Updates null values
+- Updated null values
 - Corrected unknown values
 - Changed data types
 - Standardized the data
